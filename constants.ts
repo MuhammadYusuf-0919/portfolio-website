@@ -35,10 +35,14 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
+  // "I design and develop things",
+  // "I develop modern frontend apps",
+  // "I design dynamic user experience",
+  // "I design and develop motion",
   "I design and develop things",
   "I develop modern frontend apps",
   "I design dynamic user experience",
-  "I design and develop motion",
+  "I evelop motion",
 ];
 
 export const EMAIL = "ixtiyor0919@gmail.com";
